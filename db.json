@@ -1,0 +1,73 @@
+{
+    "faq": [
+        {
+            "title": "Ipsam qui maxime molestiae consequatur modi tempora voluptas.",
+            "content": "Nisi temporibus ea aut eos. Asperiores ea sunt. Architecto dolores inventore beatae atque voluptatem maxime. Eos dignissimos blanditiis iure quia deleniti et. Amet consectetur inventore ratione optio et.\nUt consequatur porro quasi impedit repellendus repudiandae nulla. Dolor at eum architecto enim nihil hic. Culpa corporis sit.\nRerum quo commodi voluptas non reprehenderit iure aspernatur dolor id. Autem saepe rerum adipisci dignissimos aspernatur eum. Deleniti omnis rerum modi repellendus minus odio ex suscipit illum. Ut similique in et omnis et dolorem. Qui qui qui dolor nam qui. Veniam consequatur saepe cumque voluptatum minus inventore.",
+            "urutan": 0,
+            "id": "1"
+        },
+        {
+            "title": "Quam nihil amet eius ex doloribus.",
+            "content": "Illum officia non voluptatum eveniet tempore est. Pariatur in soluta officiis facere. Ipsam odio minima at aut est.\nEt iure fuga consequuntur magnam magnam et magnam. Quo quas dolor quos aut recusandae fugit. Quia expedita et odit expedita omnis atque et.\nInventore consequatur esse dolores. Quam provident aut aspernatur sunt odit. Eius ad et aut vero.",
+            "urutan": 1,
+            "id": "2"
+        },
+        {
+            "title": "Velit ut est ipsa.",
+            "content": "Sint perspiciatis sit dicta eligendi hic quia cupiditate ut. Quod quia excepturi alias corporis error quia molestias. Sapiente et id.\nId vel sint autem magnam. Aspernatur tempore nostrum placeat sed aliquam ut inventore dolorem voluptates. Doloribus qui magni optio voluptates sit voluptas nemo.\nSint enim aut doloribus ab consequatur quo ut voluptas explicabo. Aut ex laudantium iste illum quas vel molestias reprehenderit veniam. Cumque possimus harum et qui.",
+            "urutan": 2,
+            "id": "3"
+        },
+        {
+            "title": "Deleniti quaerat dolorem eum enim explicabo optio.",
+            "content": "Nihil dolores quia incidunt et ex nobis natus odio. Illum fugit cumque sit velit est quas. Harum odio voluptatem id fuga molestiae non ea qui soluta. Consequuntur dolores ut veritatis laboriosam aliquid.\nRem velit distinctio eos nihil aliquid qui. Aspernatur dolores qui rem aut quaerat mollitia blanditiis neque quae. Nam dolor facilis et sint.\nSunt deleniti dolorem minus nihil dolorem alias quia eaque dolores. Molestiae consequatur officiis temporibus est qui sint cupiditate est maiores. Sunt expedita labore enim est illum qui.",
+            "urutan": 3,
+            "id": "4"
+        },
+        {
+            "title": "Deserunt ad dolorem error incidunt eos.",
+            "content": "Aut natus et consectetur aliquid pariatur. Omnis excepturi dolores id possimus eos ullam accusantium ad. Consequatur fugiat quisquam reiciendis omnis. Eaque velit nulla labore. Inventore vitae autem rerum eius hic non qui nihil est. Perferendis nihil sequi fugit nobis saepe dolor et necessitatibus.\nSint numquam excepturi est officiis. Mollitia laborum omnis omnis alias placeat aliquid. Officiis et id aliquid iure enim nulla eos labore quisquam.\nQuasi tempore consectetur. Repudiandae et eligendi labore et illo ut quia dolore et. Laudantium aut et amet temporibus dolorem velit architecto consectetur corporis. Blanditiis voluptates et ipsam sint sapiente. Nesciunt sunt et numquam sit. Impedit nisi sit aperiam sit aut nostrum et culpa laborum.",
+            "urutan": 4,
+            "id": "5"
+        }
+    ],
+    "unggulan": [
+
+        {
+            "urutan": 1,
+            "title": "Keunggulan 1",
+            "content": "Dolorem maiores esse asperiores harum ex. Quia porro repellendus perferendis. Et molestiae sequi eos. Ea laboriosam deserunt saepe odio deserunt quis. Impedit illo veritatis quam aspernatur fuga necessitatibus velit sunt mollitia.",
+            "image": "http://placeimg.com/640/480/business",
+            "background": "#FFFFFF",
+            "font_color": "#5D5F61",
+            "id": "2"
+        },
+        {
+            "urutan": 2,
+            "title": "Keunggulan 2",
+            "content": "Amet recusandae cupiditate quasi quasi quam mollitia sint. Nihil veritatis consequatur doloremque sunt maiores dolorem. Officiis iste officia. Asperiores non nihil aut ut ut. Pariatur mollitia qui sed ea.",
+            "image": "http://placeimg.com/640/480/business",
+            "background": "#0A5F8E",
+            "font_color": "#FFFFFF",
+            "id": "3"
+        },
+        {
+            "urutan": 3,
+            "title": "Keunggulan 3",
+            "content": "Explicabo sapiente et adipisci. Non eius ut laborum optio animi voluptatibus et qui. Minima officiis quia molestias.",
+            "image": "http://placeimg.com/640/480/business",
+            "background": "#EBF0F4",
+            "font_color": "#5D5F61",
+            "id": "4"
+        },
+        {
+            "urutan": 4,
+            "title": "Keunggulan 4",
+            "content": "Illum aliquid expedita quisquam cum vel dolorem. Veniam nostrum earum recusandae aspernatur dolores. Veniam sequi dicta sint fuga consequatur. Libero qui ratione modi. Cum perspiciatis quod dolore deserunt ducimus a accusantium ea.",
+            "image": "http://placeimg.com/640/480/business",
+            "background": "#FFFFFF",
+            "font_color": "#5D5F61",
+            "id": "1"
+        }
+    ],
+}
