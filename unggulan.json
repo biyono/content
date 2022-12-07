@@ -1,0 +1,41 @@
+{
+  "unggulan": [
+
+        {
+            "urutan": 1,
+            "title": "Keunggulan 1",
+            "content": "Dolorem maiores esse asperiores harum ex. Quia porro repellendus perferendis. Et molestiae sequi eos. Ea laboriosam deserunt saepe odio deserunt quis. Impedit illo veritatis quam aspernatur fuga necessitatibus velit sunt mollitia.",
+            "image": "http://placeimg.com/640/480/business",
+            "background": "#FFFFFF",
+            "font_color": "#5D5F61",
+            "id": "2"
+        },
+        {
+            "urutan": 2,
+            "title": "Keunggulan 2",
+            "content": "Amet recusandae cupiditate quasi quasi quam mollitia sint. Nihil veritatis consequatur doloremque sunt maiores dolorem. Officiis iste officia. Asperiores non nihil aut ut ut. Pariatur mollitia qui sed ea.",
+            "image": "http://placeimg.com/640/480/business",
+            "background": "#0A5F8E",
+            "font_color": "#FFFFFF",
+            "id": "3"
+        },
+        {
+            "urutan": 3,
+            "title": "Keunggulan 3",
+            "content": "Explicabo sapiente et adipisci. Non eius ut laborum optio animi voluptatibus et qui. Minima officiis quia molestias.",
+            "image": "http://placeimg.com/640/480/business",
+            "background": "#EBF0F4",
+            "font_color": "#5D5F61",
+            "id": "4"
+        },
+        {
+            "urutan": 4,
+            "title": "Keunggulan 4",
+            "content": "Illum aliquid expedita quisquam cum vel dolorem. Veniam nostrum earum recusandae aspernatur dolores. Veniam sequi dicta sint fuga consequatur. Libero qui ratione modi. Cum perspiciatis quod dolore deserunt ducimus a accusantium ea.",
+            "image": "http://placeimg.com/640/480/business",
+            "background": "#FFFFFF",
+            "font_color": "#5D5F61",
+            "id": "1"
+        }
+    ],
+}
